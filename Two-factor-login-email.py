@@ -9,7 +9,7 @@ import time
 
 class get_2fa_code:
     def __init__(self) -> None:
-        load_dotenv("Linkedin.env")
+        load_dotenv("test.env")
         #自分のmailadress
         self.my_email = "test@gmail.com"
         #GoogleアカウントのApp Passwordの設定URL: https://myaccount.google.com/security-checkup
