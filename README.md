@@ -16,6 +16,6 @@ GoogleアカウントのApp Password
 インストール
 リポジトリをクローン
 ```
-git clone https://github.com/yourusername/2fa-code-retriever.git
+https://github.com/reidream/2FA-Code-Retriever---Gmail.git
 cd 2fa-code-retriever
 ```
